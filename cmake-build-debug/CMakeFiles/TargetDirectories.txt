@@ -1,0 +1,3 @@
+C:/C++/ejercicios en pareja/cmake-build-debug/CMakeFiles/ejercicios_en_pareja.dir
+C:/C++/ejercicios en pareja/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/C++/ejercicios en pareja/cmake-build-debug/CMakeFiles/rebuild_cache.dir
