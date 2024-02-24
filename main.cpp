@@ -16,6 +16,7 @@ int main() {
 
 */
 
+/*
     int numero;
     int i;
     cout<<"INGRESE UN NUMERO: "<<endl;
@@ -29,6 +30,21 @@ int main() {
 
 
     }while (i ==numero);
+*/
+
+//EJERCICIO NUMERO 3
+    int numero;
+    int multi;
+    int i;
+    cout<<"INGRESA EL NUMERO DE TABLA QUE DESEAS GENERAR: "<<endl;
+    cin>>numero;
+
+
+    for (i=1; i<=10; i++){
+        multi=i*numero;
+        cout<<numero<<" x "<<i<<" = "<<multi<<endl;
+
+    }
 
     return 0;
 }
